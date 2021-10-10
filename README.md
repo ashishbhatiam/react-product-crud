@@ -14,12 +14,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Getting Started
 
-**1.** Fork [this](https://github.com/aman-atg/react-product-card) repository :fork_and_knife:
+**1.** Fork [this](https://github.com/ashishbhatiam/react-product-crud) repository :fork_and_knife:
 
 **2.** Clone your forked repository to your local system :busts_in_silhouette:
 
 ```sh
-git clone https://github.com/<your-username>/react-product-card.git
+git clone https://github.com/<your-username>/react-product-crud.git
 ```
 
 Or Download and extract the zip file.
