@@ -5,7 +5,7 @@ A Product CRUD application made with React + Redux
 - View **live demo** here: [productzilla.netlify.app](https://productzilla.netlify.app/)
 
 ![preview](preview.gif)
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<br />This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Prerequisites
 - A modern web browser like Brave , Chrome , Firefox etc
